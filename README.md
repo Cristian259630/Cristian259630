@@ -27,9 +27,16 @@ Here are some of the technologies and tools I enjoy working with:
 --
 ⭐️ **Frameworks/Libraries:** React, Vue.js, Node.js, Express,Flask
 --
-⭐️ **Databases:** PostgreSQL, MongoDB, MySQL, SQLite
+⭐️ **Databases:** ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+                   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 --
 ⭐️ **Tools/Platforms:** Git,AWS,Google Cloud, Figma
+--
+🧰 **Version Controll & Tools:**  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+                                  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+                                  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+                                  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+
 
 ---
 
