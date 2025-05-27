@@ -17,8 +17,11 @@ In my free time, I enjoy coding, watch football games, watch wrestling, playing 
 Here are some of the technologies and tools I enjoy working with:
 
 ⭐️ **Languages:** Python, JavaScript, TypeScript, Java,
+--
 ⭐️ **Frameworks/Libraries:** React, Vue.js, Node.js, Express,Flask
+--
 ⭐️ **Databases:** PostgreSQL, MongoDB, MySQL, SQLite
+--
 ⭐️ **Tools/Platforms:** Git,AWS,Google Cloud, Figma
 
 ---
