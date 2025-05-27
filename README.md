@@ -16,7 +16,7 @@ In my free time, I enjoy coding, watch football games, watch wrestling, playing 
 
 Here are some of the technologies and tools I enjoy working with:
 
-⭐️ **Languages:** Python, JavaScript, TypeScript, Java,
+⭐️ **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 --
 ⭐️ **Frameworks/Libraries:** React, Vue.js, Node.js, Express,Flask
 --
