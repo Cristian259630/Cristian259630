@@ -4,7 +4,8 @@
 <h1 align="center">I'm <a href="https://github.com/Aryagm">Cristian Fernando<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 
-![cv](https://i.ibb.co/kgzrQFwF/2025-05-27-09-46-26.gif)
+
+![Flujo de Trabajo]((https://i.ibb.co/kgzrQFwF/2025-05-27-09-46-26.gif)
 
 
 ### Software Engineering | Frontend Developer (HTML, CSS, JS, Vue, Astro, React) | Currently Learning Backend with Express.js
