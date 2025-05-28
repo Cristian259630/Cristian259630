@@ -101,6 +101,6 @@ My proyects!
 
 I'm always open to new opportunities and collaborating on exciting projects. Feel free to reach out!
 
-* **LinkedIn:** [Your LinkedIn Profile](URL_TO_LINKEDIN)
-* **Email:** [Your Email Address](ctellez18@alumnos.uaq.mx)
+* **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/cristian-fernando-developer/)
+* **Email:** [My Email Address](ctellez18@alumnos.uaq.mx)
 * **Your Website/Portfolio (optional):** [My Website](https://portafolio-web-cris-dev.vercel.app)
