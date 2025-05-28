@@ -105,6 +105,8 @@ My proyects!
      <img height="" src="https://i.ibb.co/Frzdvs1/Screenshot-2.png"  />
   </div>
 
+   <div align="center"></div>
+
 
 
 ### 💬 Let's Connect!
