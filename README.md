@@ -5,7 +5,6 @@
 <Br>
 
 
-![Texto Alternativo Descriptivo](https://i.ibb.co/kgzrQFwF/2025-05-27-09-46-26.gif)
 
 
 ### Software Engineering | Frontend Developer (HTML, CSS, JS, Vue, Astro, React) | Currently Learning Backend with Express.js
