@@ -6,7 +6,7 @@
 
 ### Software Engineering | Frontend Developer (HTML, CSS, JS, Vue, Astro, React) | Currently Learning Backend with Express.js
 
----
+
 
 ### 🚀 About Me
 
@@ -14,7 +14,7 @@ I'm a passionate software developer with a focus on building innovative solution
 
 In my free time, I enjoy coding, watch football games, watch wrestling, playing video games, draw, edit videos
 
----
+
 
 ### 🛠️ Technologies & Tools
 
@@ -25,7 +25,7 @@ Here are some of the technologies and tools I enjoy working with:
                   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
                   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
                   
---
+
 ⭐️ **Frameworks/Libraries:** React, Vue.js, Node.js, Express,Flask
                              ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white))&nbsp;
                              ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
@@ -39,7 +39,7 @@ Here are some of the technologies and tools I enjoy working with:
                             
                              
                             
---
+
 ⭐️ **Databases:** ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
                    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 --
@@ -54,7 +54,7 @@ Here are some of the technologies and tools I enjoy working with:
                                   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 
----
+
 
 ### 📂 My Featured Projects
 
@@ -70,7 +70,7 @@ My proyects!
     * A brief 1-2 line description of the project.
     * [Frontend_Repository Link](https://github.com/Cristian259630/ListTrackerFrontend) | [Backend_Repository Link](https://github.com/Cristian259630/ListTrackerBackend)| [Live Demo (if applicable)](https://gestor-tareasbycristian.netlify.app)
 
----
+
 
 ### 💬 Let's Connect!
 
