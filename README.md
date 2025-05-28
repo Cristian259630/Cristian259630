@@ -91,6 +91,11 @@ My proyects!
 * **📂Educalia**
     * A mini Frontend App for connect teachers and students for get tutorials for all the areas for example math, biology and another subjects
     * [Frontend Repository Link](https://github.com/Cristian259630/Educalia) | [Live Demo (if applicable)](https://educalia.netlify.app)
+
+      <div align="center">
+        <img height="200" src="https://cristian-fernand222.imgbb.com"  />
+      </div>
+
 * **📂Task Manager**
     * A brief 1-2 line description of the project.
     * [Frontend_Repository Link](https://github.com/Cristian259630/ListTrackerFrontend) | [Backend_Repository Link](https://github.com/Cristian259630/ListTrackerBackend)| [Live Demo (if applicable)](https://gestor-tareasbycristian.netlify.app)
