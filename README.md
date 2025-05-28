@@ -22,7 +22,7 @@ In my free time, I enjoy coding, watch football games, watch wrestling, playing 
 ###
 
 <div align="center">
-  <img height="700" src="https://i.ibb.co/SX7C3QdD/2025-05-26-17-16-39.gif"  />
+  <img height="700px" src="https://i.ibb.co/SX7C3QdD/2025-05-26-17-16-39.gif"  />
 </div>
 
 ###
