@@ -102,7 +102,7 @@ My proyects!
     * [Frontend_Repository Link](https://github.com/Cristian259630/ListTrackerFrontend) | [Backend_Repository Link](https://github.com/Cristian259630/ListTrackerBackend)| [Live Demo (if applicable)](https://gestor-tareasbycristian.netlify.app)
  
    <div align="center">
-     <img height="" src="https://i.ibb.co/Frzdvs1/Screenshot-2.png"  />
+     <img height="300px" src="https://i.ibb.co/Frzdvs1/Screenshot-2.png"  />
   </div>
 
    <div align="center"  height="10px"></div>
