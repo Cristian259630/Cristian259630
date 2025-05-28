@@ -97,8 +97,13 @@ My proyects!
       </div>
 
 * **📂Task Manager**
-    * A brief 1-2 line description of the project.
+    * A Little aplication of TaskManager, you can add a new task writing the task in the line and click the button of "Add", after that the task shows in a list with 3 options for choose the state of the task:
+      In progress, finish or another option for delete the task
     * [Frontend_Repository Link](https://github.com/Cristian259630/ListTrackerFrontend) | [Backend_Repository Link](https://github.com/Cristian259630/ListTrackerBackend)| [Live Demo (if applicable)](https://gestor-tareasbycristian.netlify.app)
+ 
+   <div align="center">
+     <img height="" src="https://i.ibb.co/Frzdvs1/Screenshot-2.png"  />
+  </div>
 
 
 
