@@ -93,7 +93,7 @@ My proyects!
     * [Frontend Repository Link](https://github.com/Cristian259630/Educalia) | [Live Demo (if applicable)](https://educalia.netlify.app)
 
       <div align="center">
-        <img height="200" src="https://cristian-fernand222.imgbb.com"  />
+        <img height="200" src="https://i.ibb.co/hLPxgZW/Educalia.png"  />
       </div>
 
 * **📂Task Manager**
