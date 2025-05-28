@@ -82,6 +82,12 @@ My proyects!
 * **📂AutoApp**
     * A little website, this website shows the features of some models of cars, this is a miniwebsite with Backend: Python and Frontend: React, and the database is in the Cloud using Clever Cloud
     * [Frontend Repository Link](https://github.com/Cristian259630/AutoApp-Frontend) |[Backend Repository Link](https://github.com/Cristian259630/AutoApp-Backend)| [Live Demo (if applicable)](https://api-cars-bycris.netlify.app)
+
+      <div align="center">
+          <img height="200" src="https://i.ibb.co/MD50C8Gy/2025-05-26-17-16-39.gif"  />
+     </div>
+
+     --
 * **📂Educalia**
     * A mini Frontend App for connect teachers and students for get tutorials for all the areas for example math, biology and another subjects
     * [Frontend Repository Link](https://github.com/Cristian259630/Educalia) | [Live Demo (if applicable)](https://educalia.netlify.app)
