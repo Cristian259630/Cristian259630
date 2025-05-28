@@ -84,7 +84,7 @@ My proyects!
     * [Frontend Repository Link](https://github.com/Cristian259630/AutoApp-Frontend) |[Backend Repository Link](https://github.com/Cristian259630/AutoApp-Backend)| [Live Demo (if applicable)](https://api-cars-bycris.netlify.app)
 
       <div align="center">
-          <img height="200" src="https://i.ibb.co/MD50C8Gy/2025-05-26-17-16-39.gif"  />
+          <img height="400" src="https://i.ibb.co/MD50C8Gy/2025-05-26-17-16-39.gif"  />
      </div>
 
      --
@@ -93,7 +93,7 @@ My proyects!
     * [Frontend Repository Link](https://github.com/Cristian259630/Educalia) | [Live Demo (if applicable)](https://educalia.netlify.app)
 
       <div align="center">
-        <img height="200" src="https://i.ibb.co/hLPxgZW/Educalia.png"  />
+        <img height="400" src="https://i.ibb.co/hLPxgZW/Educalia.png"  />
       </div>
 
 * **📂Task Manager**
@@ -102,7 +102,7 @@ My proyects!
     * [Frontend_Repository Link](https://github.com/Cristian259630/ListTrackerFrontend) | [Backend_Repository Link](https://github.com/Cristian259630/ListTrackerBackend)| [Live Demo (if applicable)](https://gestor-tareasbycristian.netlify.app)
  
    <div align="center">
-     <img height="300px" src="https://i.ibb.co/Frzdvs1/Screenshot-2.png"  />
+     <img height="400px" src="https://i.ibb.co/Frzdvs1/Screenshot-2.png"  />
   </div>
 
    <div align="center"  height="10px"></div>
