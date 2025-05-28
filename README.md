@@ -105,7 +105,7 @@ My proyects!
      <img height="" src="https://i.ibb.co/Frzdvs1/Screenshot-2.png"  />
   </div>
 
-   <div align="center"></div>
+   <div align="center"  height="10px"></div>
 
 
 
